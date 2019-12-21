@@ -2,3 +2,5 @@
 Siguiendo el tutorial...
 
 [Creating and Hosting a Personal Site on GitHub](http://jmcglone.com/guides/github-pages/)
+
+Estoy cambiando esto para trabajar en mi laptop
